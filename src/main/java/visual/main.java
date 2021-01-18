@@ -74,11 +74,11 @@ public class main extends javax.swing.JFrame {
 
         jLabel10.setFont(new java.awt.Font("Century Gothic", 0, 12)); // NOI18N
         jLabel10.setForeground(new java.awt.Color(153, 153, 153));
-        jLabel10.setText("Developer Tomas Vargas (sof-s-ma-2-3)");
+        jLabel10.setText("Developer Tomas Vargas - Github @Tomvargas");
 
         jLabel12.setFont(new java.awt.Font("Century Gothic", 0, 12)); // NOI18N
         jLabel12.setForeground(new java.awt.Color(153, 153, 153));
-        jLabel12.setText("date version 3/9/2020");
+        jLabel12.setText("date version 18/01/2021");
 
         javax.swing.GroupLayout jPanel3Layout = new javax.swing.GroupLayout(jPanel3);
         jPanel3.setLayout(jPanel3Layout);
@@ -338,12 +338,12 @@ public class main extends javax.swing.JFrame {
             Double.parseDouble(Precio);
             if(Name.matches("[0-9]+")){
             
-                JOptionPane.showMessageDialog(null, "No se permiten números el nombre.");            
+                JOptionPane.showMessageDialog(null, "No se permiten números en el campo nombre.");            
             }
         else{
             if(Name.contains("[a-zA-Z]+")==true&&Name.matches("[0-9]+")){
             
-                JOptionPane.showMessageDialog(null, "No se permiten números en el nombre.");            
+                JOptionPane.showMessageDialog(null, "No se permiten números en el campo nombre.");            
             }
             else{
             r=adm.save(Name,Tipo,Precio,Elab,Exp);
@@ -358,7 +358,7 @@ public class main extends javax.swing.JFrame {
         }
             }
         else
-            JOptionPane.showMessageDialog(null, "Por favor llene todos los campos."); 
+            JOptionPane.showMessageDialog(null, "Por favor, llene todos los campos."); 
         
         
     }//GEN-LAST:event_jButton1ActionPerformed
