@@ -1,6 +1,6 @@
 # MEDINSTERT
 
-<img style="width: 500px" src="./screenshots/4.png" />
+<img src="./screenshots/4.png" />
 
 ## Abstract
 This software registers medications and shows the data including how long until the expiration of said medicine, it also shows the total of registered medicines and the total valuation that is expected as total earnings.
