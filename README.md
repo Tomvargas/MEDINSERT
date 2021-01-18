@@ -15,3 +15,5 @@ este programa cuenta con validaciones para no dejar campos vacios o datos que pu
 <img src="./screenshots/2.png" />
 <img src="./screenshots/3.png" />
 <img src="./screenshots/5.png" />
+
+#### Si te gusta mi contenido puedes seguirme y dejar una estrella en este repositorio :D
