@@ -11,4 +11,7 @@ Este software registra medicamentos y muestra los datos incluyendo que tiempo fa
 este programa cuenta con validaciones para no dejar campos vacios o datos que puedan generar error como una letra en el campo de  precio.
 
 ## Some screenshots
-
+<img src="./screenshots/1.png" />
+<img src="./screenshots/2.png" />
+<img src="./screenshots/3.png" />
+<img src="./screenshots/5.png" />
